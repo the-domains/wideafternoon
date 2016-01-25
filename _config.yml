@@ -1,0 +1,28 @@
+name: wideafternoon
+favicon: null
+layout_spectrum: 0.43182552070356905
+typography_spectrum: 0.960136721143499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5536765311844647
+  lightness: 0.3911996295209974
+  saturation: 0.3614813913591206
+  rhythmicContrast: 0.4461389989592135
+purpose: []
